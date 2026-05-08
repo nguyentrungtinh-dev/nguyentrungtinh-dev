@@ -19,9 +19,9 @@
 
 ### 📊 GitHub Stats
 
-![Tinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyentrungtinh-dev&show_icons=true&theme=radical)
+![Tinh's GitHub stats](https://github-readme-stats.shion.dev/api?username=nguyentrungtinh-dev&hide_border=false&include_all_commits=false&count_private=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentrungtinh-dev&layout=compact&theme=radical&cache_seconds=3600)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=nguyentrungtinh-dev&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ---
