@@ -6,10 +6,7 @@
 <br/>
 </div>
 
-<h3 align="left">
-  <img src="https://api.iconify.design/octicon:person-16.svg?color=%230AF75E" width="28" style="vertical-align: middle;"/>
-  <span>About Me</span>
-</h3>
+### <img src="https://api.iconify.design/octicon:person-16.svg?color=white" width="26" align="center" /> About Me
 
 - **Role:** Software Engineer specializing in the **.NET Ecosystem** (C#, ASP.NET Core).
 - **Focus:** Architecting scalable and robust **Web Applications & RESTful APIs**.
@@ -50,9 +47,7 @@
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-4CAF50?style=flat)
 ---
 
-<h3 align="left">
-  <img src="https://api.iconify.design/octicon:pulse-16.svg?color=%230AF75E" width="28" style="vertical-align: middle;"/> GitHub Activity & Stats
-</h3>
+### <img src="https://api.iconify.design/fluent:iot-active-24-filled.svg?color=white" width="28" align="center" /> GitHub Activity & Stats
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.shion.dev/api?username=nguyentrungtinh-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
