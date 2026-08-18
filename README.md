@@ -48,12 +48,24 @@
 
 ### 📊 GitHub Stats
 
-![Tinh's GitHub stats](https://github-readme-stats.shion.dev/api?username=nguyentrungtinh-dev&hide_border=false&include_all_commits=false&count_private=false)
+<div align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=nguyentrungtinh-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nguyentrungtinh-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div>
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=nguyentrungtinh-dev&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
 ### 🔗 Connect with me
-- ✉️ Email: nguyentrungtinh.281104@gmail.com  
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/t%C3%ADnh-nguy%E1%BB%85n-908895369)  
 
+<div align="center">
+  <a href="mailto:nguyentrungtinh.281104@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/t%C3%ADnh-nguy%E1%BB%85n-908895369">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/nguyentrungtinh-dev">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
