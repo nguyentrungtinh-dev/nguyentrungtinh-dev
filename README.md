@@ -6,12 +6,15 @@
 <br/>
 </div>
 
-## About
+<h3 align="left">
+  <img src="https://api.iconify.design/octicon:person-16.svg?color=%230AF75E" width="28" style="vertical-align: middle;"/>
+  <span>About Me</span>
+</h3>
 
-💻 **.NET Developer**  
-🎯 Passionate about building scalable **Web Applications & APIs**  
-🌱 Currently learning **Cloud (Azure)** and **Microservices Architecture**  
-⚡ Fun fact: I enjoy solving problems with clean & efficient code  
+- **Role:** Software Engineer specializing in the **.NET Ecosystem** (C#, ASP.NET Core).
+- **Focus:** Architecting scalable and robust **Web Applications & RESTful APIs**.
+- **Learning:** Expanding expertise in **Azure Cloud**, Docker, and Microservices Architecture.
+- **Approach:** Solving complex problems efficiently through **Clean Architecture** and **Design Patterns**.
 
 ---
 
@@ -21,6 +24,9 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **Frameworks & Libraries:**
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -44,14 +50,14 @@
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-4CAF50?style=flat)
 ---
 
-### 📊 GitHub Stats
+<h3 align="left">
+  <img src="https://api.iconify.design/octicon:pulse-16.svg?color=%230AF75E" width="28" style="vertical-align: middle;"/> GitHub Activity & Stats
+</h3>
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.shion.dev/api?username=nguyentrungtinh-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
   <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nguyentrungtinh-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
-
-<br/>
 
 ### 🔗 Connect with me
 
@@ -61,9 +67,6 @@
   </a>
   <a href="https://www.linkedin.com/in/t%C3%ADnh-nguy%E1%BB%85n-908895369">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/nguyentrungtinh-dev">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
