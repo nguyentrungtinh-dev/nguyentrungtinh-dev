@@ -47,7 +47,7 @@
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-4CAF50?style=flat)
 ---
 
-### <img src="https://api.iconify.design/fluent:iot-active-24-filled.svg?color=white" width="28" align="center" /> GitHub Activity & Stats
+### <img src="https://api.iconify.design/octicon:pulse-16.svg?color=white" width="28" align="center" /> GitHub Activity & Stats
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.shion.dev/api?username=nguyentrungtinh-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
