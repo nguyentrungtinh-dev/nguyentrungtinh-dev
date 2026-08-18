@@ -2,8 +2,8 @@
 
 # Hi, I'm Nguyen Trung Tinh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=0AF75E&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+.NET+Specialist;Ho+Chi+Minh+City%2C+Vietnam" />
-<br/> -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=0AF75E&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+.NET+Specialist;Ho+Chi+Minh+City%2C+Vietnam" />
+<br/> 
 </div>
 
 ### <img src="https://api.iconify.design/octicon:person-16.svg?color=white" width="26" align="center" /> About Me
